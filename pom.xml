@@ -3,7 +3,7 @@
 
 	<groupId>org.hoteia.qalingo</groupId>
 	<artifactId>qalingo-assets</artifactId>
-	<version>0.9.0</version>
+	<version>0.9.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>qalingo-assets</name>
 	<description>{Q} Commerce Solution Project</description>
@@ -97,7 +97,7 @@
 		<connection>scm:git:git@github.com:qalingo/qalingo-assets.git</connection>
 		<developerConnection>scm:git:git@github.com:qalingo/qalingo-assets.git</developerConnection>
 		<url>scm:git:git@github.com:qalingo/qalingo-assets.git</url>
-		<tag>qalingo-assets-0.9.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
